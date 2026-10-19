@@ -1,6 +1,6 @@
 # Contribuindo com a Zenyx AI
 
-Obrigado pelo interesse! O objetivo é evoluir a Zenyx TinyV1 com transparência, rastreabilidade e foco em português.
+Obrigado pelo interesse! O objetivo é evoluir a Zenyx TinyV1 com transparência, responsabilidade e foco.
 
 ## Fluxo
 
